@@ -1,0 +1,2 @@
+# kings
+A friendly type
